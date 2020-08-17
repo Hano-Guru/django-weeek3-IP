@@ -27,7 +27,7 @@ bootsrap
 
 
 ## Technologies used
-Python 3.6.9
+Python 3.6.9 
 HTML for the structure
 Bootstrap 3 for the design
 JavaScript
